@@ -35,14 +35,10 @@ I wanted to understand VoIP by running a real phone system rather than reading a
 
 Part A covers that build. Part B is a separate Packet Tracer exercise covering the switching and routing configuration that normally surrounds a PBX in an office network, because I do not own enterprise Cisco switches, routers or IP phones.
 
-> **Screenshot Placeholder**
-> 
-> 
-> Insert screenshot here: `screenshots/freepbx-dashboard.png`
-> 
-> - **Expected capture:** FreePBX web dashboard after first login, browser address bar showing the server IP.
-> - **Why it matters:** Shows the finished server at a glance and is the first thing a reviewer sees.
-> - **Capture from:** Windows 11 browser, after logging in to the FreePBX web interface.
+
+ <img width="1376" height="768" alt="image" src="https://github.com/user-attachments/assets/f8bc5d1c-ca2b-41a1-9162-b987c50d1b06" />
+  FreePBX web dashboard after first login, browser address bar showing the server IP.
+
 
 ## Objectives
 
@@ -254,6 +250,5 @@ More in Lessons learned.
 ## Author
 
 **Clinton Kehinde**
-GitHub: @Heisdavein
 
 This repository is part of my portfolio as I build toward an IT support and cybersecurity career.
